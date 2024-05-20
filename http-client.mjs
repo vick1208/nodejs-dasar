@@ -1,7 +1,6 @@
 import https from 'https';
 
-// memakai request catcher
-const endpoint = "https://node-basic.requestcatcher.com/"
+const endpoint = "https://01hyax3xb120nf98s5gs7zk75n00-80700a4a0fb8b2700677.requestinspector.com"
 
 const request = https.request(endpoint,{
     method:"POST",
